@@ -1,6 +1,6 @@
 # Задание №6
-def v_func(*args):
+def int_func(*args):
     word = input('Введите слова: ')
     print(word.title())
     return
-v_func()
+int_func()
